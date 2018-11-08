@@ -1,0 +1,26 @@
+<h2>Color</h2>
+
+		<h3>Containers</h3>
+
+		<p>Per donar un toc de color en els containers cal utilitzar la classe w3-container i w3-<i>color</i> on diu color em de escollir entre la llista dels que ens permet</p>
+		<p class="w3-container w3-green">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+		<p>Aques es un altre exemple de l'us d'aquesta classe, pero que passa si el que volem es que la lletra digui de color?</p>
+		<p class="w3-container w3-red">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+		
+		<h3>Text</h3>
+
+		<p>Per canviar el color de la lletra tenim les classes w3-text-<i>color</i></p>
+		<p class="w3-text-orange ">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation </p>
+		<p class="w3-container w3-hover-text-purple w3-white">ullamco.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco.</p>
+
+		<h3>Botons</h3>
+		<button class="w3-red">lorem</button>
+		<button class="w3-border-blue">lorem</button>
+		<button class="w3-border-blue w3-red">lorem</button>
+		<h3>Borders</h3>
+
+		<h3>Taulas</h3>
+
+		<h3>Cards</h3>
